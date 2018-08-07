@@ -1,3 +1,10 @@
-This is my testing Ruby on rails repository
+The following project consists about a simple blog app written in Ruby on Rails. 
 
-I'm new to this :D
+Objectives:
+1. Learn about basic installation of Rails framework
+2. Review Ruby syntax concepts (variables, conditionals, loops, etc.)
+3. Learn about the MVC model, its functions and how it works
+4. Understand in depth Object Oriented Programming as well as CRUD functions
+5. Improve optimization of code using DRY concept
+6. Famialization with the usage of new gems and its documentations such as Devise
+7. Application of gravatars
